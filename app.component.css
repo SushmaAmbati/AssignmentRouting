@@ -1,0 +1,29 @@
+#home {
+  color: blue;
+  font-style: inherit;
+  margin-left: 45px;
+
+
+}
+
+#dashboard {
+  color: red;
+  font-style: inherit;
+
+
+
+
+}
+
+#about {
+  color: green;
+  font-style: inherit;
+
+
+
+}
+
+.headerlink{
+  margin-top: 18px;
+  font-size: large;
+}
